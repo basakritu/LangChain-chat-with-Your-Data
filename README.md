@@ -1,4 +1,4 @@
-## The files shows the following:
+## The files show the following:
 
 # 1. Document_Loading 
 Shows different ways of import  documents.
